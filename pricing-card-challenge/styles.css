@@ -59,6 +59,7 @@ h1 {
   font-size: 3rem;
   font-weight: 900;
   margin: 0;
+  line-height: 1;
 }
 
 .plan__price span {
