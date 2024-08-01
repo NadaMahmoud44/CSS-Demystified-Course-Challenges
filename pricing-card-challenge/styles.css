@@ -44,18 +44,11 @@ h1 {
   
 }
 
-.plan.plan__gray .plan__button{
-  background-color: #4E4E4E;
-  color: #FFFFFF;
-}
-
-.plan.plan__middle{
+.plan__middle{
   background: linear-gradient(-45deg, #00a1ab, #3741a0);
   color: white;
 
 }
-
-
 
 .plan__title {
   text-transform: uppercase;
@@ -79,9 +72,7 @@ h1 {
   line-height: 1.5;
 }
 
-.plan__button {
-  background: white;
-  color: #4e4e4e;
+.button {
   text-decoration: none;
   padding: 0.1em 0.5em;
   border-radius: 0.3em;
@@ -90,4 +81,15 @@ h1 {
   padding: 0.6em 1em;
   
   
+}
+
+.button__middle{
+    background-color: #FFFFFF;
+    color: #4E4E4E;
+  }
+
+.button__gray{
+  background-color: #4E4E4E;
+  color: #FFFFFF;
+
 }
